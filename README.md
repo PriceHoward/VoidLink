@@ -30,7 +30,7 @@
 
 ## 📦 Project Structure
 
-This project is broken into 5 epics over 30 days of development. Each task can be tracked via GitHub issues or your preferred Kanban board.
+This project is broken into 5 epics of development. Each task can be tracked via GitHub issues.
 
 ### 📁 Epic 1: Hardware Setup & Communication
 - Research and purchase ESP32 LoRa boards
